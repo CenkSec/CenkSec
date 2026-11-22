@@ -4,8 +4,8 @@ Cybersecurity student focused on **penetration testing** and **network security*
 
 ### Featured work
 
-- **Metasploitable 3 — Penetration Test** — a full engagement: reconnaissance, exploitation, privilege escalation, data exfiltration, and covering tracks, with a professional report.
-- **External Penetration Test (sanitised)** — an authorised external assessment of a live server: OSINT, scanning, and low-impact vulnerability verification, with a CVSS risk register and remediation plan.
+- **[Metasploitable 3 — Penetration Test](https://github.com/CenkSec/metasploitable3-pentest)** — a full engagement: reconnaissance, exploitation, privilege escalation, data exfiltration, and covering tracks, with a professional report.
+- **[External Penetration Test (sanitised)](https://github.com/CenkSec/external-pentest-sample)** — an authorised external assessment of a live server: OSINT, scanning, and low-impact vulnerability verification, with a CVSS risk register and remediation plan.
 
 ### Skills
 
