@@ -10,9 +10,9 @@ Cybersecurity student focused on **penetration testing** and **network security*
 
 ### Skills
 
-**Comfortable:** Linux, Nmap, Wireshark, gobuster, Nikto, netcat, manual SQL injection, Bash
+**Comfortable:** Linux, Bash, Nmap, Wireshark, Burp Suite, netcat, manual SQL injection
 
-**Working knowledge:** Burp Suite, Python, Active Directory attacks (Kerberoasting, AS-REP roasting, BloodHound), networking (TCP/IP, DNS, VLANs, firewalls, RADIUS), web vulnerabilities, Linux hardening
+**Working knowledge:** Python, Active Directory attack paths (Kerberoasting, AS-REP roasting, BloodHound, Impacket, NetExec, hashcat), Windows event-log analysis & detection (Sysmon, MITRE ATT&CK, CVSS), networking (TCP/IP, DNS, VLANs, firewalls, RADIUS), web vulnerabilities, Linux hardening
 
 **Learning:** detection engineering, cloud security
 
