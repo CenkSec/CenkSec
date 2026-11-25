@@ -18,5 +18,8 @@ Cybersecurity student focused on **penetration testing** and **network security*
 **Learning:** SIEM & detection-as-code (Splunk, Sentinel), cloud security
 
 ### Contact
+Email: CenkKilicer@gmail.com
 
-Reach me here on GitHub.
+**[Linkedin](https://www.linkedin.com/in/cenk-kilicer-361741451/)**
+
+Or reach me here on GitHub.
