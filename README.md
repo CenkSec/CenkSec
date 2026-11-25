@@ -21,5 +21,3 @@ Cybersecurity student focused on **penetration testing** and **network security*
 CenkKilicer@gmail.com
 
 **[Linkedin](https://www.linkedin.com/in/cenk-kilicer-361741451/)**
-
-Or reach me here on GitHub.
